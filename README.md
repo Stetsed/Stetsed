@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Docker, Self-hosting, Single GPU Passthrough
+- 🔭 I’m currently working on Docker, Self-hosting, Single GPU Passthrough, Git
 - 🌱 I’m currently learning Docker Swarm, Better use of Shell-Script
 - 💬 Ask me about Linux, Docker, Selfhosting
 - 📫 How to reach me: Discord
