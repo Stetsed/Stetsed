@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome to my Github Profile
 
 <!--
 **Stetsed/Stetsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, HTML/JS/CSS
 - 💬 Ask me about Linux, Docker, Virtual Machines
 - ⚡ Current Main GPG Key Fingerprint: C5D1 84E8 77B0 17D6 00FC 3C04 1692 BF3D 5214 DA36
+- ⚡ My working git server is my personal git server at https://git.selfhostable.net
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
