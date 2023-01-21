@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, HTML/JS/CSS
 - 💬 Ask me about Linux, Docker, Virtual Machines
 - ⚡ Current Main GPG Key Fingerprint: C5D1 84E8 77B0 17D6 00FC 3C04 1692 BF3D 5214 DA36
+- ⚡ My current working git server is my personal one at https://git.selfhostable.net
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
