@@ -32,6 +32,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/stetsed/stetsed/blob/output/snake.svg" alt="Snake animation" />
-
 ###
