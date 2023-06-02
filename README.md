@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stetsed@protonmail.com**
 
-- You can find some of my bullshize guides at: https://stetsed.github.io/stetsed-guides/
+- You can find some of my bullshize guides at: https://stetsed.xyz/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
