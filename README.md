@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Bash, Linux, VFIO**
 
-- 📫 How to reach me **stetsed@protonmail.com**
+- 📫 How to reach me **stetsed@selfhostable.net**
 
 - You can find some of my bullshize guides at: https://stetsed.xyz/
 
