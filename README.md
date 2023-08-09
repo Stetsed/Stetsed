@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stetsed" alt="stetsed" /></a> </p>
 
-- 🔭 I’m currently working on [project-overwatch](https://github.com/Stetsed/project-overwatch-frontend)
+- 🔭 I’m currently working on setting up my own network using BGP and IPv6
 
-- 🌱 I’m currently learning **Svelte, Typescript, Rust**
+- 🌱 I’m currently learning **Svelte, Typescript, Rust, BGP**
 
-- 💬 Ask me about **Bash, Linux, VFIO**
+- 💬 Ask me about **Bash, Linux, VFIO, DN42**
 
 - 📫 How to reach me **stetsed@selfhostable.net**
 
