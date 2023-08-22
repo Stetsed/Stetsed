@@ -13,6 +13,8 @@
 
 - You can find some of my bullshize guides at: https://stetsed.xyz/
 
+If you wish to contact me securely you can do so by checking the WKD for my current GPG key (gpg --locate-keys --auto-key-locate wkd stetsed@selfhostable.net), or this repo which CAN be out of date.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21633902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stetsed" height="30" width="40" /></a>
