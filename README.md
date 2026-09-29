@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on setting up my own network using BGP and IPv6
 
-- 🌱 I’m currently learning **Svelte, Typescript, Rust, BGP**
+- 🌱 I’m currently learning **Rust, C, Embedded Programming**
 
-- 💬 Ask me about **Bash, Linux, VFIO, DN42**
+- 💬 Ask me about **BGP, Linu**
 
 - 📫 How to reach me **stetsed@selfhostable.net**
 
